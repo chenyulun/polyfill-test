@@ -1,0 +1,10 @@
+{
+  "name": "polyfill-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chenyulun390 <308813800@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
+}
